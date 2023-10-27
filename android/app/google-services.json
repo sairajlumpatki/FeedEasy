@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106521523162",
+    "project_id": "feedeasy-454c7",
+    "storage_bucket": "feedeasy-454c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106521523162:android:b7c6c84b6551baea59c6e3",
+        "android_client_info": {
+          "package_name": "com.example.registr_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSYxl3oNQULOmJBGDqCJmEpBBl7-WSiyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
